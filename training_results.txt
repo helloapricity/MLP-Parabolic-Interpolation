@@ -1,0 +1,24 @@
+BÁO CÁO KẾT QUẢ HUẤN LUYỆN (Thiết bị: cuda)
+============================================================
+Chu kỳ (Epoch) [1/20] - Sai số (Loss): 1.1928
+Chu kỳ (Epoch) [2/20] - Sai số (Loss): 0.9729
+Chu kỳ (Epoch) [3/20] - Sai số (Loss): 1.0819
+Chu kỳ (Epoch) [4/20] - Sai số (Loss): 1.0445
+Chu kỳ (Epoch) [5/20] - Sai số (Loss): 1.0180
+Chu kỳ (Epoch) [6/20] - Sai số (Loss): 1.0304
+Chu kỳ (Epoch) [7/20] - Sai số (Loss): 1.0955
+Chu kỳ (Epoch) [8/20] - Sai số (Loss): 1.0741
+Chu kỳ (Epoch) [9/20] - Sai số (Loss): 1.0706
+Chu kỳ (Epoch) [10/20] - Sai số (Loss): 1.0647
+Chu kỳ (Epoch) [11/20] - Sai số (Loss): 1.0492
+Chu kỳ (Epoch) [12/20] - Sai số (Loss): 1.0308
+Chu kỳ (Epoch) [13/20] - Sai số (Loss): 1.0326
+Chu kỳ (Epoch) [14/20] - Sai số (Loss): 1.1323
+Chu kỳ (Epoch) [15/20] - Sai số (Loss): 1.4400
+Chu kỳ (Epoch) [16/20] - Sai số (Loss): 1.3220
+Chu kỳ (Epoch) [17/20] - Sai số (Loss): 1.5568
+Chu kỳ (Epoch) [18/20] - Sai số (Loss): 1.4474
+Chu kỳ (Epoch) [19/20] - Sai số (Loss): 1.3332
+Chu kỳ (Epoch) [20/20] - Sai số (Loss): 1.4134
+
+Quá trình huấn luyện đã hoàn tất!
